@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Allow this file
+!.gitignore
+
+# Allow .md files in the root directory
+!/*.md
+
+# Allow space_age and base_game folders and their contents
+!space_age/
+!space_age/**
+
+!base_game/
+!base_game/**

@@ -1,0 +1,28 @@
+- The "Game Rules" must also be observed.
+
+──────────────────────────────────────────────────────────
+
+Basic Rules:
+
+
+- The run ends by unlocking all achievements obtainable with "Peaceful mode" enabled.
+- Only 1 player is allowed.
+- Free choice of map generator settings.
+- Choosing a set "Map seed" is forbidden.
+- Importing blueprints IS allowed.
+- ![](/static/blob/xzd4lwpz.png)
+
+──────────────────────────────────────────────────────────
+
+Detailed Rules:
+
+- The time is taken in realtime, not ingame time.
+- The timer starts on pressing the "Random seed" button.
+- Achievements must be deleted before starting the run.
+- The timer stops on the first frame of the last achievement.
+- Reloads are not allowed.
+- Only "map exchange strings" that can be created using the ingame user interface are allowed.
+- Any method can be used to create blueprints, but they must be theoretically recreatable using only the "None" and "Resources" tabs in the /editor. 
+- The map preview may be used.
+- Playing in multiplayer mode is recommended.
+- Top 5 runs must adhere to the challenger ruleset (see Game Rules).
