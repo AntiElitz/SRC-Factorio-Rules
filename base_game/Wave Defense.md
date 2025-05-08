@@ -8,8 +8,7 @@
 - Difficulty must be set to normal  
 - Infinite map must be disabled  
 - The map must be random  
-- Importing blueprints is not allowed (Blueprints created during the run are allowed)
-
+- Importing blueprints is not allowed, but blueprints created during the run are allowed
 ---
 
 ## Timing Rules

@@ -5,8 +5,7 @@
 ## Basic Rules
 - The goal is to finish the "Supply Challenge" scenario
 - Only 1 player is allowed
-- Importing blueprints is not allowed (Blueprints created during the run are allowed)
-
+- Importing blueprints is not allowed, but blueprints created during the run are allowed
 ---
 
 ## Timing Rules

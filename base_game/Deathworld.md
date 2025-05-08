@@ -7,8 +7,7 @@
 - Only 1 player is allowed  
 - The "Death world" preset must be used in the map generator settings  
 - The map must be random  
-- Importing blueprints is not allowed (Blueprints created during the run are allowed)
-
+- Importing blueprints is not allowed, but blueprints created during the run are allowed
 ---
 
 ## Timing Rules

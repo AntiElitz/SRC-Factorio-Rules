@@ -7,8 +7,7 @@
 - Only 1 player is allowed  
 - Any map generator settings are allowed  
 - Using a set map seed is allowed  
-- Importing blueprints is not allowed (Blueprints created during the run are allowed)
-
+- Importing blueprints is not allowed, but blueprints created during the run are allowed
 ---
 
 ## Timing Rules
