@@ -1,21 +1,32 @@
-- The "Game Rules" must also be observed.
+- The "Game Rules" must be followed in addition to the rules listed here
 
-─────────────────────────────────────────────────────────────────
+---
 
-Basic Rules:
+## Basic Rules
+- The goal is to reach the outer edge of the solar system  
+- Up to 8 players are allowed  
+- The "Default" preset must be used in the map generator settings  
+- The map must be random  
+- Importing blueprints is not allowed (Blueprints created during the run are allowed)
 
-- Victory is achieved by reaching the outer edge of the solar system.
-- Up to 8 players are allowed.
-- The "Default" preset must be used in the map generator settings. Choosing a set "Map seed" is forbidden.
-- Using imported blueprints is NOT allowed. However, you may use blueprints created during the run.
-- Submissions require **replay** (in addition to the usual full video proof) OR a recording of ALL Players, linked in the description. To enable replay on every save game please see: [https://www.speedrun.com/factorio/guides/bkces](https://www.speedrun.com/factorio/guides/bkces)
+---
 
-─────────────────────────────────────────────────────────────────
+## Timing Rules
+- Timing is done in realtime (not in-game time)  
+- The timer starts when pressing the "Random seed" button  
+- The timer stops on the first frame of the victory screen  
 
-Detailed Rules:
+---
 
-- The time is taken in realtime, not ingame time.
-- The timer starts on pressing the "Random seed" button.
-- The timer stops on the first frame of the victory screen.
-- The map preview may be used.
-- Top 5 runs must adhere to the challenger ruleset (see Game Rules).
+## Submission Requirements
+- A permanent video recording of the host's full run is required
+- A save file with **replay** must be linked in the run description: [How to permanently enable replay](https://www.speedrun.com/factorio/guides/bkces)
+- Alternatively, if no replay is provided, permanent video recordings of all players must be linked in the run description  
+
+---
+
+## Challenger Rules: Top 3 submissions in each category
+- A save file with **replay** must be linked in the run description: [How to permanently enable replay](https://www.speedrun.com/factorio/guides/bkces)
+- Permanent video recordings of all admins are required  
+- An admin must run the following command at the very start of the run: `/config set allow-debug-settings false`  
+- Alternatively, instead of running the command, permanent video recordings of all players can be linked in the run description

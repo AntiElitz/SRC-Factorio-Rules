@@ -1,28 +1,34 @@
-- The "Game Rules" must also be observed.
+- The "Game Rules" must be followed in addition to the rules listed here
 
-──────────────────────────────────────────────────────────
+---
 
-Basic Rules:
+## Basic Rules
+- The goal is to unlock all achievements obtainable with Peaceful mode enabled  
+- Only 1 player is allowed  
+- Any map generator settings are allowed  
+- The map must be random  
+- Importing blueprints is allowed  
 
+---
 
-- The run ends by unlocking all achievements obtainable with "Peaceful mode" enabled.
-- Only 1 player is allowed.
-- Free choice of map generator settings.
-- Choosing a set "Map seed" is forbidden.
-- Importing blueprints IS allowed.
-- ![](/static/blob/xzd4lwpz.png)
+## Timing Rules
+- Timing is done in realtime (not in-game time)  
+- The timer starts when pressing the "Random seed" button  
+- The timer stops on the first frame of the final achievement being unlocked  
 
-──────────────────────────────────────────────────────────
+---
 
-Detailed Rules:
+## Submission Requirements
+- A **save file** must be linked in the run description
+- A permanent video recording of the full run is required
 
-- The time is taken in realtime, not ingame time.
-- The timer starts on pressing the "Random seed" button.
-- Achievements must be deleted before starting the run.
-- The timer stops on the first frame of the last achievement.
-- Reloads are not allowed.
-- Only "map exchange strings" that can be created using the ingame user interface are allowed.
-- Any method can be used to create blueprints, but they must be theoretically recreatable using only the "None" and "Resources" tabs in the /editor. 
-- The map preview may be used.
-- Playing in multiplayer mode is recommended.
-- Top 5 runs must adhere to the challenger ruleset (see Game Rules).
+---
+
+## Additional Rules
+- Achievements must be deleted before starting the run  
+- Reloads are not allowed  
+
+---
+
+## Challenger Rules: Top 3 submissions in each category
+- A save file with **replay** must be linked in the run description: [How to permanently enable replay](https://www.speedrun.com/factorio/guides/bkces)

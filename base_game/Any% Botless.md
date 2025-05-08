@@ -1,21 +1,28 @@
-- The "Game Rules" must also be observed.
+- The "Game Rules" must be followed in addition to the rules listed here
 
-────────────────────────────────────────────────────────────────
+---
 
-Basic Rules:
+## Basic Rules
+- The goal is to launch a rocket  
+- Only 1 player is allowed  
+- Any map generator settings are allowed  
+- Using a set map seed is allowed  
+- Importing blueprints is not allowed (Blueprints created during the run are allowed)
+- Construction bots and logistics bots may not be used
 
-- The game is won by launching a rocket.
-- Only 1 player is allowed.
-- Free choice of map generator settings. Enabling "Peaceful mode" and using a set "Map seed" is allowed.
-- Using imported blueprints is NOT allowed. However, you may use blueprints created during the run.
-- The usage of construction bots and logistics bots is forbidden.
+---
 
-────────────────────────────────────────────────────────────────
-Detailed Rules:
+## Timing Rules
+- Timing is done in realtime (not in-game time)  
+- The timer starts on the first frame of the map  
+- The timer stops on the first frame of the victory screen  
 
-- The time is taken in realtime, not ingame time.
-- The timer starts on the first frame of the map.
-- The timer stops on the first frame of the victory screen.
-- Only "map exchange strings" that can be created using the ingame user interface are allowed.
-The time is taken in realtime, not ingame time.• Playing in multiplayer mode is recommended.
-- Top 3 runs must adhere to the challenger ruleset (see Game Rules).
+---
+
+## Submission Requirements
+- A permanent video recording of the full run is required
+
+---
+
+## Challenger Rules: Top 3 submissions in each category
+- A save file with **replay** must be linked in the run description: [How to permanently enable replay](https://www.speedrun.com/factorio/guides/bkces)

@@ -1,19 +1,25 @@
-- The "Game Rules" must also be observed.
+- The "Game Rules" must be followed in addition to the rules listed here
 
-────────────────────────────────────────────────────────────────
+---
 
-Basic Rules:
+## Basic Rules
+- The goal is to finish the "Supply Challenge" scenario
+- Only 1 player is allowed
+- Importing blueprints is not allowed (Blueprints created during the run are allowed)
 
-- The game is won by finishing the  "Supply challenge" game scenario.
-- Only 1 player is allowed.
-- Using imported blueprints is NOT allowed.  However, you may use blueprints created during the run.
+---
 
-────────────────────────────────────────────────────────────────
+## Timing Rules
+- Timing is done in realtime (not in-game time)  
+- The timer starts on the first frame of the map  
+- The timer stops on the first frame of the victory screen  
 
-Detailed Rules:
+---
 
-- The time is taken in realtime, not ingame time.
-- The timer starts on the first frame of the map.
-- The timer stops on the first frame of the victory screen.
-- Playing in multiplayer mode is recommended.
-- Top 3 runs must adhere to the challenger ruleset (see Game Rules).
+## Submission Requirements
+- A permanent video recording of the full run is required
+
+---
+
+## Challenger Rules: Top 3 submissions in each category
+- A save file with **replay** must be linked in the run description: [How to permanently enable replay](https://www.speedrun.com/factorio/guides/bkces)
