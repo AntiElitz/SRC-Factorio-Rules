@@ -3,7 +3,7 @@
 ---
 
 ## Basic Rules
-- The goal is to unlock all achievements obtainable with Peaceful mode enabled  
+- The goal is to unlock all achievements obtainable with "Peaceful mode" enabled  
 - Only 1 player is allowed  
 - Any map generator settings are allowed  
 - The map must be random  
